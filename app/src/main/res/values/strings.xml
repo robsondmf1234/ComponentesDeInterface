@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Componentes Interface</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="digite_seu_e_mail">Digite seu e-mail</string>
+    <string name="enviar">Enviar</string>
+    <string name="cores">Cores</string>
+    <string name="feminino">Feminino</string>
+    <string name="masculino">Masculino</string>
+    <string name="sexo">Sexo</string>
+    <string name="resultado">Resultado</string>
+    <string name="limpar">Limpar</string>
+    <string name="cor_verde">Cor Verde</string>
+    <string name="cor_amarelo">Cor Amarelo</string>
+    <string name="cor_vermelha">Cor Vermelha</string>
+    <string name="ligado">Ligado</string>
+    <string name="desligado">Desligado</string>
+</resources>
